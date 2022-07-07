@@ -6,3 +6,24 @@
 --colorGrisClaro: #ebebeb;
 --colorVerde: #39b54a;
 }
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    font-family: 'Roboto';
+}
+
+li{
+    list-style: none;
+}
+ul{
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
